@@ -1,0 +1,1 @@
+# Practica1.4-MPI-OpenMP-BankSimulation
